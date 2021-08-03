@@ -12,7 +12,7 @@ themesDir = "themes"
 publishDir = "public"
 
 [Params]
-tagline = "Osprey Example Site"
+tagline = "Daniele Verzolini"
 author = "Daniele Verzolini"
 description = "Graphic Designer Freelance nella zona di Ancona"
 logoBig = "/images/hugo.png"
