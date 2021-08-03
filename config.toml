@@ -13,7 +13,7 @@ publishDir = "public"
 
 [Params]
 tagline = "Osprey Example Site"
-author = "Toma Nistor"
+author = "Daniele Verzolini"
 description = "Full-stack web developer and UI/UX enthusiast based in San Diego, CA."
 logoBig = "/images/osprey-logo.png"
 logoSmall = "/images/osprey-logo.png"
