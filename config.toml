@@ -14,7 +14,7 @@ publishDir = "public"
 [Params]
 tagline = "Osprey Example Site"
 author = "Daniele Verzolini"
-description = "Graphic Designer Freelance "
+description = "Graphic Designer Freelance nella zona di Ancona"
 logoBig = "/images/osprey-logo.png"
 logoSmall = "/images/osprey-logo.png"
 favicon = "favicon.ico"
