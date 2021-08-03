@@ -12,7 +12,7 @@ themesDir = "themes"
 publishDir = "public"
 
 [Params]
-tagline = "Dtime Example Site"
+tagline = "Osprey Example Site"
 author = "Toma Nistor"
 description = "Full-stack web developer and UI/UX enthusiast based in San Diego, CA."
 logoBig = "/images/osprey-logo.png"
